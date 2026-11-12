@@ -2,6 +2,8 @@
 
 ## Your first session
 
+You need Pocket Timer installed first; see [how to verify the installation](installation.md#verify-the-installation).
+
 Run `pocket start` to begin a 25-minute session. Pocket Timer counts down in the terminal and rings
 when the session ends.
 
