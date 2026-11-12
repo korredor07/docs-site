@@ -8,3 +8,7 @@ how your day went.
 - [FAQ](faq.md): the questions people ask most.
 
 Installing Pocket Timer is covered on the installation page.
+
+---
+
+You can also read this page online at `docs.pocket-timer.example.com`.
