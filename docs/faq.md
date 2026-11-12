@@ -6,8 +6,8 @@ No. It never connects to anything.
 
 ## Where is my history stored?
 
-In `~/.pocket/history.jsonl`, one line per session or break. Delete the file to start over.
+Your [history](glossary.md#history) is in `~/.pocket/history.jsonl`, one line per session or break. Delete the file to start over.
 
 ## Can I change the length of a break?
 
-Yes: `break_minutes = 5` in the [configuration](configuration.md#session-length) file.
+Yes, for a [break](glossary.md#break): `break_minutes = 5` in the [configuration](configuration.md#session-length) file.
